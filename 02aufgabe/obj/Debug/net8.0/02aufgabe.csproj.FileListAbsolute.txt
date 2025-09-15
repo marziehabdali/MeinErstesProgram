@@ -1,0 +1,15 @@
+/workspaces/MeinErstesProgram/02aufgabe/bin/Debug/net8.0/02aufgabe
+/workspaces/MeinErstesProgram/02aufgabe/bin/Debug/net8.0/02aufgabe.deps.json
+/workspaces/MeinErstesProgram/02aufgabe/bin/Debug/net8.0/02aufgabe.runtimeconfig.json
+/workspaces/MeinErstesProgram/02aufgabe/bin/Debug/net8.0/02aufgabe.dll
+/workspaces/MeinErstesProgram/02aufgabe/bin/Debug/net8.0/02aufgabe.pdb
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.AssemblyInfoInputs.cache
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.AssemblyInfo.cs
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.csproj.CoreCompileInputs.cache
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.sourcelink.json
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.dll
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/refint/02aufgabe.dll
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.pdb
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/02aufgabe.genruntimeconfig.cache
+/workspaces/MeinErstesProgram/02aufgabe/obj/Debug/net8.0/ref/02aufgabe.dll

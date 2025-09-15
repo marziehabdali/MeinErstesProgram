@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!-- نوع خروجی: برنامه اجرایی -->
+    <TargetFramework>net7.0</TargetFramework> <!-- نسخه .NET -->
+    <ImplicitUsings>enable</ImplicitUsings> <!-- کمک می‌کند برخی usingها خودکار اضافه شوند -->
+    <Nullable>enable</Nullable> <!-- فعال کردن Nullable Reference Types -->
+  </PropertyGroup>
+
+</Project>
